@@ -1,8 +1,3 @@
-# Welcome to LRiceCooker's Profile 🍳
-
-## Who am I?
-I'm LRiceCooker, passionate about Rust and React-Native, aiming to dive into the world of product creation without juggling too many projects simultaneously.
-
 ## My Current Interests
 - 🦀 Working with Rust for optimal performance.
 - ⚛️ Exploring the wonders of React-Native for mobile experiences.
