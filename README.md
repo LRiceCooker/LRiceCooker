@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to LRiceCooker's Profile 🍳
 
-<!--
-**LRiceCooker/LRiceCooker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I'm LRiceCooker, passionate about Rust and React-Native, aiming to dive into the world of product creation without juggling too many projects simultaneously.
 
-Here are some ideas to get you started:
+## My Current Interests
+- 🦀 Working with Rust for optimal performance.
+- ⚛️ Exploring the wonders of React-Native for mobile experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+I'm learning to channel my creativity to bring a product to life without getting lost in multiple projects at once.
+
+## Collaboration
+I'm open to collaborating with everyone in joy and good spirits! 🌟
+
+## Fun Fact
+Did you know that bacon bits + potatoes + sour cream + onions + reblochon cheese = happiness ? 😋
+
+![Illustration Image](https://images.assetsdelivery.com/compings_v2/margouillat/margouillat1811/margouillat181100315.jpg)
