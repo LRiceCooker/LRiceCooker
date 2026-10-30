@@ -1,1 +1,1 @@
-Trying not to become too lazy because of clankers 🤔
+Trying not to get too lazy because of the clankers 🤔
